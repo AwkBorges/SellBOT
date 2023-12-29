@@ -1,0 +1,28 @@
+[  {
+  "server": "BR",
+  "valor": 5.49,
+  "login": "Ellieneo",
+  "password": "3zjwrJsKnK",
+  "level": "30",
+  "essencia": "58450",
+  "nickname": "vaysi",
+  "email": "Ellieneo@gmail.com",
+  "nascimento": "28_08_2001",
+  "criacao": "10_05_2022",
+  "provedor": "SP_VIVO",
+  "skins": [
+    "Annie in Wonderland",
+    "Cosmic Flight Anivia",
+    "Popstar Ahri",
+    "Matador Alistar",
+    "Waterloo Miss Fortune"
+  ],
+  "skinsRarity": [
+    "Annie in Wonderland (LEGENDARY)",
+    "Cosmic Flight Anivia (EPIC)",
+    "Popstar Ahri (DEFAULT)",
+    "Matador Alistar (DEFAULT)",
+    "Waterloo Miss Fortune (DEFAULT)\r"
+  ]
+}
+]
